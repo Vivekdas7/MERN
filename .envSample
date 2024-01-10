@@ -1,0 +1,2 @@
+PORT=8000
+MONGODB_URL=mongodb+srv://Vivek:vivek123@cluster0.3rg33zf.mongodb.net
